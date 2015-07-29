@@ -1,0 +1,3 @@
+[submodule "comtessa.ansible.playbooks"]
+	path = comtessa.ansible.playbooks
+	url = git@github.com:loechel/comtessa.ansible.playbooks.git
